@@ -1,0 +1,36 @@
+body{
+    padding: 80px;
+
+}
+article{
+    height: 400px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #3E5916;
+    padding: 20px;
+}
+.tela{
+    height: 600px;
+}
+.visor{
+    background-color: #F2DA91;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 100px;
+    color: #D91E41;
+}
+.col{
+    color: #D91E41;
+    font-size: 1.6em;
+    text-align: center;
+    background-color: #3E5916;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+
+.col:hover{
+    border-bottom: 1px  white;
+}
+
